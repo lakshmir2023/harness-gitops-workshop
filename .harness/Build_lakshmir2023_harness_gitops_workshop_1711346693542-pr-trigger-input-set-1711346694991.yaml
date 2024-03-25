@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_lakshmir2023_harness_gitops_workshop_1711346693542-pr-trigger-input-set
+  identifier: Build_lakshmir2023_harness_gitops_workshop_1711346693542prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_lakshmir2023_harness_gitops_workshop_1711346693542
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
