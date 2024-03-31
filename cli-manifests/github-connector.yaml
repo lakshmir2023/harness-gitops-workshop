@@ -2,8 +2,8 @@ connector:
   name: github-connector
   identifier: githubconnector
   description: ""
-  orgIdentifier: default
-  projectIdentifier: default_project
+  orgIdentifier: OperationsTechnology
+  projectIdentifier: ENZ
   type: Github
   spec:
     url: https://github.com/GITHUB_USERNAME/harness-gitops-workshop
