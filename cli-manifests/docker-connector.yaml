@@ -2,7 +2,7 @@ connector:
   name: docker_connector
   identifier: docker_connector
   description: ""
-  orgIdentifier: default
+  orgIdentifier: OperationsTechnology
   projectIdentifier: ENZ
   type: DockerRegistry
   spec:
