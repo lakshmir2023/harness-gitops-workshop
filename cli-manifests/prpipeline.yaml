@@ -1,8 +1,8 @@
 pipeline:
   name: cicd-gitops-pipeline
   identifier: cicdgitopspipeline
-  projectIdentifier: default_project
-  orgIdentifier: default
+  projectIdentifier: ENZ
+  orgIdentifier: OperationsTechnology
   tags: {}
   properties:
     ci:
