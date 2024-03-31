@@ -3,6 +3,6 @@ environment:
   identifier: prod
   tags: {}
   type: Production
-  orgIdentifier: default
-  projectIdentifier: default_project
+  orgIdentifier: OperationsTechnology
+  projectIdentifier: ENZ
   variables: []
