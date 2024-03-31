@@ -1,8 +1,8 @@
 pipeline:
   identifier: Build_lakshmir2023_harness_gitops_workshop_1711346693542
   name: Build harness-gitops-workshop
-  orgIdentifier: default
-  projectIdentifier: default_project
+  orgIdentifier: OperationsTechnology
+  projectIdentifier: ENZ
   properties:
     ci:
       codebase:
