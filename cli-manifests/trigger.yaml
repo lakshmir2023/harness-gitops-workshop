@@ -5,9 +5,9 @@ trigger:
   encryptedWebhookSecretIdentifier: ""
   description: ""
   tags: {}
-  orgIdentifier: default
+  orgIdentifier: OperationsTechnology
   stagesToExecute: []
-  projectIdentifier: default_project
+  projectIdentifier: ENZ
   pipelineIdentifier: cicdgitopspipeline
   source:
     type: Webhook
