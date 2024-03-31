@@ -1,7 +1,7 @@
 gitops:
   name: gitops-application
-  projectIdentifier: default_project
-  orgIdentifier: default
+  projectIdentifier: OperationsTechnology
+  orgIdentifier: ENZ
   type: application
   application:
     metadata:
